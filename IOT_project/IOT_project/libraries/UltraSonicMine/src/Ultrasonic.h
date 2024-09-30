@@ -1,0 +1,2 @@
+long Ultrasonic();
+void UltraSInit();
